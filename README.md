@@ -1,2 +1,5 @@
 # .github
-To serve humanity by making the best use of the Earth's precious wealth
+
+*Community health files for the @GitHub organization*
+
+For more information, please see the article on [creating a default community health file for your organization](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization).
